@@ -1,0 +1,8 @@
+NAME="ResolveOS"
+PRETTY_NAME="ResolveOS"
+ID=resolveos
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;66;135;245"
+HOME_URL="https://github.com/manish12ys/resolveos-iso/issues"
+LOGO=resolveos
