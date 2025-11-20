@@ -33,7 +33,6 @@ exfatprogs
 f2fs-tools
 fatresize
 fsarchiver
-gnu-netcat
 gpart
 gpm
 gptfdisk
@@ -89,7 +88,6 @@ pv
 qemu-guest-agent
 refind
 reflector
-reiserfsprogs
 rp-pppoe
 rsync
 #rxvt-unicode-terminfo
@@ -129,14 +127,25 @@ libadwaita-without-adwaita-git
 linux-headers
 logrotate
 ntp
-upd72020x-fw
 wd719x-firmware
 wget
 
 ###xorg
 xorg-server
-xorg-apps
+xorg-xauth
+xorg-xbacklight
+xorg-xdpyinfo
+xorg-xev
 xorg-xinit
+xorg-xinput
+xorg-xkill
+xorg-xmodmap
+xorg-xprop
+xorg-xrandr
+xorg-xrdb
+xorg-xset
+xorg-xsetroot
+xorg-xwininfo
 
 ###video
 xf86-input-elographics
@@ -151,7 +160,6 @@ xf86-input-libinput
 #xf86-video-nouveau
 #xf86-video-openchrome
 #xf86-video-vesa
-xf86-video-vmware
 mesa
 
 ###hardware video support
@@ -303,7 +311,6 @@ ttf-ubuntu-font-family
 #adapta-gtk-theme
 arc-gtk-theme
 #arc-darkest-theme-git
-kvantum-qt5-git
 #kvantum-qt6-git
 #openbox-arc-git
 
@@ -319,13 +326,11 @@ dconf-editor
 dex
 discord
 duf
-edid-decode-git
 evince
 expac
 file-roller
 #filezilla
 git
-gksu
 #glances
 gnome-disk-utility
 gnome-keyring
@@ -440,18 +445,15 @@ mkinitcpio-openswap
 ###utilities-repo
 alacritty
 appstream
-appstream-qt5
 #archiso
 conky-lua-archers
 downgrade
 font-manager
 #glxinfo
-gitahead-bin
 #grub-customizer
 hardcode-fixer-git
 inxi
 mintstick-git
-neofetch
 #numix-gtk-theme-git
 #arcolinux-pamac-all
 #octopi
@@ -506,7 +508,6 @@ arcolinux-fonts-git
 #arcolinux-geany-git
 arcolinux-grub-theme-vimix-git
 #arcolinux-gtk3-arcolinux-candy-beauty-git
-arcolinux-gtk3-sardi-arc-git
 #arcolinux-gtk3-surfn-arc-git
 #arcolinux-gtk3-surfn-arc-breeze-git
 #arcolinux-gtk3-surfn-plasma-dark-git
@@ -789,7 +790,6 @@ adobe-source-han-sans-cn-fonts
 #arcob-calamares-config-xmonad-git
 #arcob-calamares-config-xtended-git
 #arco-calamares-config-b-git
-arco-calamares-config-xl-git
 #arco-calamares-config-xl-git-git
 #arco-calamares-config-xl-dev-git
 #arco-calamares-config-xs-git
@@ -824,7 +824,6 @@ arcolinux-sddm-simplicity-git
 ###########################################################################
 
 mugshot
-menulibre
 #volumeicon
 
 ###########################################################################
@@ -942,7 +941,6 @@ alacritty-themes
 base16-alacritty-git
 #xfce4-terminal-base16-colors-git
 time
-pace
 sparklines-git
 fish
 arcolinux-fish-git
@@ -954,7 +952,6 @@ arcolinux-app-glade-git
 noto-fonts-emoji
 hyfetch
 arcolinux-hyfetch-git
-arcolinux-xfce-prime-git
 arcolinux-arc-dawn-git
 btop
 
